@@ -1,0 +1,44 @@
+.pub-row {
+  display: flex;
+  align-items: center;
+}
+
+/* SOCIAL ICONS SECTION */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem; /* Spacing between icons */
+  margin-top: 1rem;
+}
+
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.4rem;
+  width: 2.4rem;
+  background-color: transparent;
+  color: #043361 !important;
+  border-radius: 50%;
+  font-size: 1.15rem;
+  transition: transform 0.3s ease;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  background-color: white;
+  color: black;
+  transform: scale(1.2);
+}
+
+@media (prefers-color-scheme: dark) {
+  .social-icons a {
+    color: #3eb7f0 !important;
+  }
+
+  .social-icons a:hover {
+    background-color: #20212b;
+    color: black;
+  }
+}

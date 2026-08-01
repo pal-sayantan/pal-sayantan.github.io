@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Your Name | Your Affiliation</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
+    
+    <meta name="keywords" content="minimal light">
+    
+    <link rel="canonical" href="https://minimal-light-theme.yliu.me/"/>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/publications.css">
+
+    <!-- ✅ Add this style block OR paste it into style.css -->
+    <style>
+      .social-icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.4rem;
+        margin-top: 1rem;
+      }
+
+      .social-icons a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 2.4rem;
+        width: 2.4rem;
+        background-color: transparent;
+        color: #043361 !important;
+        border-radius: 50%;
+        font-size: 1.15rem;
+        transition: transform 0.3s ease;
+        text-decoration: none;
+      }
+
+      .social-icons a:hover {
+        background-color: white;
+        color: black;
+        transform: scale(1.2);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .social-icons a {
+          color: #3eb7f0 !important;
+        }
+
+        .social-icons a:hover {
+          background-color: #20212b;
+          color: black;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <a class="image avatar"><img src="./assets/img/avatar.png" alt="avatar" /></a>
+        <h1>Your Name</h1>
+        <position style="font-size:1.10rem;">Ph.D. Student</position><br>
+        <a href="" rel="noopener"><autocolor>Your Affiliation</autocolor></a><br>
+        <email>yourname (at) example.edu</email>
+        <br><br>
+
+        <!-- ✅ Social icons — margin styles removed -->
+        <div class="social-icons">
+          <a href="https://scholar.google.com/" target="_blank" aria-label="Google Scholar">
+            <i class="ai ai-google-scholar" style="font-size:1.2rem;"></i>
+          </a>
+          <a href="assets/files/curriculum_vitae.pdf" target="_blank" aria-label="CV">
+            <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+          </a>
+          <a href="https://github.com/" target="_blank" aria-label="GitHub">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://www.linkedin.com/" target="_blank" aria-label="LinkedIn">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="https://twitter.com/" target="_blank" aria-label="Twitter">
+            <i class="fab fa-twitter"></i>
+          </a>
+        </div>
+        <br>
+      </header>
+
+      <section>
+        <!-- Keep your content here -->
+        <h2 id="about-me">About Me</h2>
+        <p>I am a Ph.D. student at …</p>
+
+        <!-- Your research, publications, etc. (unchanged) -->
+
+        <br>
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      </section>
+
+      <footer></footer>
+    </div>
+
+    <script src="/assets/js/scale.fix.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-111540567-4', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

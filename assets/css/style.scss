@@ -1,0 +1,56 @@
+---
+---
+
+@import "minimal-light";
+
+.abstract-toggle summary {
+  cursor: pointer;
+  color: #2a9fd6;
+  font-size: 1.15em;
+  list-style: none;
+}
+
+.abstract-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.abstract-text {
+  margin-top: 0.3em;
+  line-height: 1.65;
+  color: #555;
+  max-width: 42em;
+}
+
+.collapsible {
+  background-color: #FFFFFF;
+  color: #2a9fd6;
+  cursor: pointer;
+  padding: 4px 0;
+  margin: 0;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.collapsible:hover {
+  text-decoration: underline;
+}
+
+.content {
+  padding: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: white;
+}
+
+.content p {
+  margin: 8px 0;
+  line-height: 1.6;
+  max-width: 42em;
+}
+
+summary::-webkit-details-marker { display: none; }
+
+details summary:hover { text-decoration: underline; }
