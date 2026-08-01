@@ -32,126 +32,198 @@ layout: homepage
 }
 </style>
 
+
 ## About Me
 
-Welcome! I am a Ph.D. Candidate in Political Science at the [University of California, Berkeley](https://polisci.berkeley.edu/people/person/yue-florence-lin), with a Designated Emphasis on Political Economy through [Berkeley Economy & Society Initiative](https://besi.berkeley.edu/graduate-program/). I am also a [Data Science & AI Fellow](https://dlab.berkeley.edu/people/yue-lin) at [Berkeley Data Science Lab](https://dlab.berkeley.edu/home) and a non-resident Hans J. Morgenthau Fellow at [University of Notre Dame's International Security Center](https://ondisc.nd.edu/).
+Welcome!
 
-My dissertation, titled ***Championing Economic National Security in a De-Globalized Era***, won the 2025 [Best Doctoral Dissertation Proposal](https://www.aib.world/about/awards/doctoral-dissertation-proposal/) from [Academy of International Business](https://www.aib.world/). I investigate a new transnational political risk: host country governments invoking **national security** to restrict cross-border investment. This shift reshapes the competitive and nonmarket strategy landscape for firms operating across geopolitical divides. In the job market paper, I trace the political origins of this trend in the U.S. Congress and analyze the nonmarket strategies multinational enterprises (MNEs) use to manage these challenges. In the dissertation, I also explore how societal stakeholders—especially consumers—respond, and how their reactions shape the cross-border diffusion of frontier technologies. Empirically, I combine original data, experiments, and qualitative interviews to explore these questions. From 2023 to 2025, I interviewed 21 business leaders, former government officials, lobbyists, and policy experts during fieldwork in China, Japan, and the United States.
+I am a **Ph.D. Research Scholar** in the **Unmanned Vehicle Systems Lab**, Department of Aerospace Engineering, **Indian Institute of Technology Kharagpur**, India.
 
-For research funding support, I thank [Berkeley Economy & Society Initiative](https://besi.berkeley.edu/), [Berkeley Global, International & Area Studies](https://gias.berkeley.edu), [Citrin Center for Public Opinion Research](https://live-citrin-center-for-public-opinion-research.pantheon.berkeley.edu/), [Chiang Ching-kuo Foundation](http://www.cckf.org/en), [Helsinki Geoeconomics Society](https://www.geoeconomics.fi/society/), and [Institute for Humane Studies](https://www.theihs.org/). 
+My research focuses on the **guidance, and control of autonomous unmanned aerial vehicles (UAVs)**, with particular emphasis on vector-field guidance, curvature-constrained path planning, obstacle avoidance, impact-angle constrained missile guidance, and nonlinear control systems. I am also interested in autonomous systems, robotics, machine learning, and intelligent control for aerospace applications.
 
-Prior to my Berkeley journey, I worked at the [American Enterprise Institute](https://www.aei.org/), the [Center for Strategic and International Studies](https://www.csis.org/), and the [Institute of New Structural Economics](https://www.nse.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/). I received an M.A. in International Economics and International Relations from [Paul H. Nitze School of Advanced International Studies, Johns Hopkins University](https://sais.jhu.edu/). I earned a B.Soc.Sci. in Government and International Relations from Hong Kong Baptist University, where I was awarded a national scholarship (top 0.05%) and graduated top of my cohort.
+Prior to joining IIT Kharagpur, I worked at **CSIR–Central Mechanical Engineering Research Institute (CSIR-CMERI)**, where I contributed to research on tendon-driven hand exoskeletons, flexible strain sensors, and wearable robotic systems. 
 
-You can access my CV [here](assets/files/cv.pdf) (last updated: July 2026). **I am on the 2026-2027 academic job market**.
+You can download my CV [here](assets/files/Sayantan_Pal_CV.pdf).
+
+---
+<div id="researchi"></div>
+
+# Research Interests
+
+- Guidance and Control of Autonomous Vehicles- 
+- Path Planning 
+- Missile Guidance
+- Obstacle Avoidance
+- Nonlinear Control
+- Machine Learning
+- Soft Computing
+- Robotics
+- Wearable Sensors
+
+---
+<div id="education"></div>
+
+# Education
+
+**Indian Institute of Technology Kharagpur**  
+Ph.D. in Aerospace Engineering (2021 - Present)
+
+**IIEST Shibpur**  
+M.Tech. in Mechatronics (2018 - 2020)
+
+**MAKAUT, Kolkata**  
+B.Tech. in Mechanical Engineering (2012 - 2016)
+
+---
+<div id="experience"></div>
+
+# Research Experience
+
+**Project Associate**  
+Advanced Technology Development Centre (ATDC), CSIR–CMERI  
+*December 2020 – July 2021*
+
+- Developed a tendon-driven hand exoskeleton for post-stroke rehabilitation.
+
+**Research Assistant**  
+Robotics & Automation Department, CSIR–CMERI  
+*July 2019 – August 2020*
+
+- Worked on flexible strain sensors and wearable robotic systems for lower-limb exosuits. 
+
+---
+<div id="publications"></div>
+
+# Journal Publications
+
+1. **Impact Angle Control Guidance Using Asymmetric Integral Barrier Lyapunov Function With FOV and Input Constraints**  
+   **Sayantan Pal** and **Sikha Hota**  
+   *IEEE Control Systems Letters*, **Vol. 9**, pp. 2663–2668, 2025.  
+   DOI: https://doi.org/10.1109/LCSYS.2025.3639353
+
+2. **Curvature Constrained Vector Field Guidance for UAVs**  
+   **Sayantan Pal** and **Sikha Hota**  
+   *IEEE Transactions on Aerospace and Electronic Systems*, 2026.
+
+3. **Continuous-Curvature Dubins-Inspired L1 Guidance with Sliding Mode Control-Based Tracking for UAVs**  
+   **P. Mahajan**, **Sayantan Pal**, and **Sikha Hota**  
+   *Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering*, 2025.
 
 
-## Research Interests
+---
 
-- **Substance:** Global Strategy, Nonmarket Strategy, Multinational Enterprises, Geopolitics, Corporate Social Responsibility
-- **Methodology:** Natural Language Processing, Machine Learning, Experiments in Social Science, Qualitative Interview
+# Conference Publications
 
+1. **Barrier Sliding Mode Control for Curvature-Constrained Nonlinear Planar Path Following of UAVs**  
+   **P. P. Kumar**, **Sayantan Pal**, and **Sikha Hota**  
+   *Proceedings of the 2026 IEEE Conference on Decision and Control (CDC)*, 2026. *(Accepted)*
 
-## Publications
+2. **Arccosine Vector Field Guidance for Curvilinear Path Following of UAVs**  
+   **Sayantan Pal** and **Sikha Hota**  
+   *Proceedings of the International Conference on Control, Decision and Information Technologies (CoDIT)*, 2026. *(Accepted)*
 
-**Lin, Y**. (2026). “[Nationality Backlash: Multinational Corporations in the Shadow of Home-Host State Rivalry](https://brill.com/view/journals/lgeo/aop/article-10.1163-29505720-bja00012/article-10.1163-29505720-bja00012.xml?ebody=Abstract%2FExcerpt#access-options2).” *Law and Geoeconomics*, 2(1):1–49. 
+3. **Varying-Gain Lyapunov Guidance Vector Field for Elliptical Path Following**  
+   **I. Phanse**, **Sayantan Pal**, and **Sikha Hota**  
+   *IEEE SPACE Conference*, 2026. *(Accepted)*
 
-**Lin, Y**. (2025). “[How Foreign Investment Fuels Social Conflicts in Africa](https://www.routledge.com/Legalization-of-Human-Rights-in-Africa-The-Institutionalization-of-Laws-Prohibiting-State-Sanctioned-Violence-and-Torture/Mitchell-Nchotu-Atanga/p/book/9781032749495).” In S. M. Mitchell, V. Nchotu, & L. L. Atanga (Eds.), *Legalization of Human Rights in Africa: The Institutionalization of Laws Prohibiting State-Sanctioned Violence and Torture*, 149-170. Routledge.
+4. **Guidance Law for Surveillance by UAVs**  
+   **P. Madure**, **G. Khurd**, **Sayantan Pal**, and **Sikha Hota**  
+   *IEEE SPACE Conference*, 2026. *(Accepted)*
 
-## Methodology Posts
+5. **UAV Path Following with Obstacle Avoidance Using Vector Field Approach**  
+   **K. S. K. Hrithika**, **Sayantan Pal**, and **Sikha Hota**  
+   *INSTCon*, 2026. *(Accepted)*
 
-**Lin, Y**. (2025). “[Field Experiments in Corporations](https://medium.com/@dlab-berkeley/field-experiments-in-corporations-34f10a2aa6c2).” *Berkeley Social Science Data Lab*.
+6. **Time-Optimal L1 Guidance for Straight-Line Path Following in 3D**  
+   **P. Mahajan**, **Sayantan Pal**, and **Sikha Hota**  
+   *12th International Conference on Mechatronics and Robotics Engineering (ICMRE)*, 2026.
 
-**Lin, Y**. (2024). “[Causal Inference in International Political Economy: Hurdles and Advancements](https://medium.com/@dlab-berkeley/causal-inference-in-international-political-economy-hurdles-and-advancements-e6d9b1fd259b).” *Berkeley Social Science Data Lab*.
+7. **Impact Angle Constrained Guidance Laws for Stationary Target Interception in 3D Space**  
+   **N. K. Singh**, **Sayantan Pal**, **A. D. Menon**, and **Sikha Hota**  
+   *AIAA SciTech Forum*, 2026.
 
-## Working Papers
-1. When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms' Socio-Political Strategy **[Job Market Paper]**
-   <div style="margin: 8px 0 16px 0;">
-     <details style="display: inline-block;">
-       <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
-       <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
-      Why do governments increasingly invoke national security to criticize foreign multinational enterprises (MNEs), and how do affected firms respond? I argue that <em>economic securitization</em> (ES)&mdash;the framing of foreign investment as a national security threat&mdash;is a salient and extreme political risk that follows a distinct life cycle. It is activated when host country legislators face competitive elections in constituencies exposed to foreign economic competition. Under emergent ES risk exposure, firms substitute away from elite-targeted lobbying toward social investment to establish broader legitimacy. Once ES risk consolidates, however, high-profile social engagement becomes a liability, as local embeddedness now reads as suspicious foreign influence, so MNEs scale back both political and social channels. Using a staggered difference-in-differences design with an original dataset of 5,484 U.S. legislator-session observations (2005–2024) and 634 foreign MNEs operating in the United States (2013–2024), I find empirical support for these propositions. Twenty-one interviews with senior corporate and policy professionals further reveal how MNEs choose among different strategies in response to different risk levels. Overall, this paper theorizes economic securitization as a novel political risk, showing that the trade-off between corporate political and social strategy follows a stage-dependent life cycle. It offers managerial guidance for global firms operating in increasingly politicized contexts.
-    </p>
-     </details>
-     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6933318" target="_blank" rel="noopener noreferrer" style="color:#2a9fd6; text-decoration:none; margin-left: 16px;">Preprint</a>
-   </div>
-   
-2. Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
-   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
-     <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Invited to submit full paper</em>
-     </li>
-     <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Finalist for 2026 UNCTAD-AIB Award for Research on Investment and Development</em>
-     </li>
-   </ul>
+8. **Impact Angle Constrained 3D Guidance Law for Stationary Target Interception**  
+   **N. K. Sahu**, **Sayantan Pal**, and **Sikha Hota**  
+   *IEEE SPACE Conference*, 2025.
 
-      <details style="margin: 8px 0 16px 0;">
-     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
-     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
-       International investment has facilitated economic cooperation among states and multinational
-enterprises (MNEs), yet it constantly suffers from regulatory uncertainties and institutional hazards. How does
-the rule of law (RoL) in targeted markets affect MNEs’ cross-border investment? I argue that the RoL
-has differential effects on different types of cross-border investment. In particular, strategic mergers
-and acquisitions (M&As) establish new global value chains (GVCs) or strengthen existing ones to foster
-economic collaboration, which are less observed in the financial M&As that are purely profit seeking.
-Moreover, weak RoL may deter more strategic M&As due to GVC linkages that can transfer spillover
-effects to home countries. Based on data from the International Country Risk Guide and Capital IQ for
-140 countries (2010-2021), I find that law <em>de jure</em> significantly promotes M&A values only when law <em>de
-facto</em> is at a middle or high level. Overall, this paper explores the differential impacts of law on cross-border
-investment, calling for emerging markets and new democracies to improve institutional quality and law
-enforcement capacity for sustained global economic cooperation. The paper also offers practical managerial implications for
-corporate leaders to enhance legal astuteness.
-     </p>
-   </details>
-   
-3. Geopoliticized Industrial Policy: Power Rivalries and the Allocation of Government Subsidies (with [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
-   <details style="margin: 8px 0 16px 0;">
-     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
-     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
-       We examine the revival of industrial policy in the United States amid an
-evolving global geopolitical environment. We argue that federal industrial policy reflects a dual logic:
-it functions as an instrument of statecraft to enhance strategic and technological advantages <i>vis-&agrave;-vis</i>
-global rivals, while simultaneously serving as a vehicle for domestic political distribution. Using
-a novel firm-level dataset that combines information from Good Jobs First’s Subsidy Tracker and Bureau van Dijk’s Orbis Historical database,
-we analyze the allocation of federal subsidies across more than 2 million firm-year observations from
-2010 to 2021. Our results show that firms more exposed to Chinese import competition and those
-operating in industries targeted by the “Made in China 2025” initiative are significantly more likely to
-receive federal support, while political connections also play a critical role. We develop a comprehensive
-framework for understanding the new wave of industrial policy and demonstrate that contemporary
-U.S. industrial policy is shaped by both global strategic rivalry and domestic political considerations.
-     </p>
-   </details>
-   
-4. Probabilistic Record Linkage at Scale: A Human–AI Interactive Pipeline for Firm-Level Research (with [Lingyu Jack Fuca](https://polisci.la.psu.edu/people/lingyu-jack-fuca/) and [Boliang Zhu](https://polisci.la.psu.edu/people/bxz14/))
-   <details style="margin: 8px 0 16px 0;">
-     <summary style="cursor:pointer; color:#2a9fd6; list-style:none; display:inline-block;">Abstract</summary>
-     <p style="margin-top:10px; line-height:1.65; color:#555; max-width:42em;">
-      Research on private organizations increasingly depends on integrating heterogeneous data sources that
-rarely share common identifiers, such as financial statements, patent filings, lobbying records, and ownership registries. Resolving which records refer to the same firm is therefore a foundational empirical step,
-yet existing approaches force a trade-off between scalability and accuracy. Purely deterministic methods
-miss true matches in messy data, while fully automated probabilistic methods generate false positives that
-propagate silently through downstream analyses. In this paper, we propose a human-in-the-loop pipeline
-for large-scale firm record linkage built upon the Splink package, with diagnostic transparency as the
-organizing principle. Specifically, we combine a three-tier tokenization scheme for company names with
-recall-prioritizing blocking rules, and embed researcher review with auditable diagnostics throughout
-model training, feature selection, and threshold tuning. We further illustrate the pipeline by linking
-Good Jobs First’s Subsidy Tracker to Bureau van Dijk’s Orbis firm universe, showing that the workflow
-generalizes to a broad range of record linkage tasks. The result is a computationally efficient, transparent,
-and replicable workflow that lowers the barrier to large-scale data integration across disciplines.
-     </p>
-   </details>
-    
-## Ongoing Projects
+9. **Smooth Trajectory Generation for Gap Traversal by UAVs**  
+   **S. Singha**, **Sayantan Pal**, and **Sikha Hota**  
+   *IEEE SPACE Conference*, 2025.
 
-1. Winning Hearts and Minds? Consumer Reactions to Corporate Social Investment
+10. **Path Convergence of UAVs via Fast Terminal Sliding Mode Control**  
+    **P. P. Kumar**, **Sayantan Pal**, and **Sikha Hota**  
+    *11th Indian Control Conference (ICC)*, 2025.
 
-2. Caught in the Crossfire: Electric Vehicle Firms under Economic Securitization
-   <ul style="margin:0; padding-left:0.8em; list-style-position: inside;">
-     <li style="list-style-type: disc; color: black; margin:0;">
-       <em>Nominated for Best Paper Prize and PhD Paper Prize, Strategic Management Society 2025 Conference</em>
-     </li>
-   </ul>
+11. **Vector Field Guidance with Curvature Constraint for UAVs**  
+    **Sayantan Pal** and **Sikha Hota**  
+    *AIAA SciTech Forum*, 2025.
 
-3. Navigating the Chasm: How Political Signal Incongruence Shapes Corporate Nonmarket Strategy (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))<script src="{{ '/assets/js/collapsible.js' | relative_url }}?v=3"></script>
+12. **Nonlinear Control Law for Path Following by UAVs**  
+    **Sayantan Pal** and **Sikha Hota**  
+    *10th Indian Control Conference (ICC)*, 2024.
 
-4. Strategic Reconfiguration: Cross-Border Venture Capital under Investment Screening (with [Jin Hyung Kim](https://business.gwu.edu/jin-hyung-kim))
+13. **Time-Optimal Bézier Curves for Straight-Line and Circular Path Convergence in 3D Space**  
+    **Sayantan Pal** and **Sikha Hota**  
+    *9th Indian Control Conference (ICC)*, 2023.
+
+14. **Development of a Stretchable and Flexible Conductive Fabric-Based Sensorized Pneumatic Artificial Muscle**  
+    **Sayantan Pal**, **D. Sarkar**, **S. S. Roy**, **A. Kumar**, and **A. Arora**  
+    *4th International Conference on Electronics, Communication and Aerospace Technology (ICECA)*, 2020.
+
+15. **Design, Development and Analysis of a Conductive Fabric-Based Flexible and Stretchable Strain Sensor**  
+    **Sayantan Pal**, **D. Sarkar**, **S. S. Roy**, **A. Paul**, and **A. Arora**  
+    *IOP Conference Series: Materials Science and Engineering*, 2020.
+
+16. **Estimation of Transmission Force in Assistive Devices Using Conductive Liquid Metal-Based Sensorized Pneumatic Artificial Muscle**  
+    **D. Sarkar**, **Sayantan Pal**, **S. S. Roy**, **A. Kumar**, and **A. Arora**  
+    *5th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE)*, 2020.
+
+17. **A Multi-Technique Measurement and Estimation of Volume for Pneumatic Artificial Muscle**  
+    **A. Arora**, **D. Sarkar**, **Sayantan Pal**, **A. Kumar**, **S. Sen**, and **S. S. Roy**  
+    *5th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE)*, 2020.
+
+---
+<div id="awards"></div>
+
+# Awards & Recognitions
+
+- IEEE American Control Conference (ACC) Travel Grant (2026)
+- IIT Kharagpur International Travel Grant (2026)
+- IIT Kharagpur International Travel Grant (2025)
+- IEEE Indian Control Conference Travel Grant (2023)
+- GATE Fellowship (2018–2021) 
+
+---
+<div id="talks"></div>
+
+# Invited Talk
+
+**Nonlinear Guidance for Impact Angle Constrained Target Interception Under FOV and Input Constraints**
+
+Robotics Café Seminar, 2026. 
+
+---
+<div id="activities"></div>
+
+# Professional Activities
+
+- Reviewer, IEEE Control Systems Letters
+- Reviewer, International Journal of Control, Automation and Systems
+- Reviewer, Indian Control Conference (ICC 2025)
+- Reviewer, AIAA SciTech 2025
+- Graduate Member, IEEE.
+
+---
+<div id="skills"></div>
+
+# Technical Skills
+
+**Programming:** MATLAB, Python, C/C++, ROS 2
+
+**Embedded Systems:** Quanser QDrone, Quanser QBot
+
+**Simulation:** OptiTrack Motive
+
+**CAD:** CATIA, SolidWorks
+
+**Certification:** TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning (Coursera)
