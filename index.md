@@ -37,7 +37,7 @@ layout: homepage
 
 Welcome!
 
-I am a **Ph.D. Research Scholar** in the **Unmanned Vehicle Systems Lab**, Department of Aerospace Engineering, **Indian Institute of Technology Kharagpur**, India.
+I am a **Doctoral Student** in the **Unmanned Vehicle Systems Lab**, Department of Aerospace Engineering, **Indian Institute of Technology Kharagpur**, India.
 
 My research focuses on the **guidance, and control of autonomous unmanned aerial vehicles (UAVs)**, with particular emphasis on vector-field guidance, curvature-constrained path planning, obstacle avoidance, impact-angle constrained missile guidance, and nonlinear control systems. I am also interested in autonomous systems, robotics, machine learning, and intelligent control for aerospace applications.
 
