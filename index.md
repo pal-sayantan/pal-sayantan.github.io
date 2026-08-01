@@ -46,7 +46,7 @@ Prior to joining IIT Kharagpur, I worked at **CSIR–Central Mechanical Engineer
 You can download my CV [here](assets/files/Sayantan_Pal_CV.pdf).
 
 ---
-<div id="researchi"></div>
+<div id="rer"></div>
 
 # Research Interests
 
