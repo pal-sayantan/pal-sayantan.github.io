@@ -74,13 +74,13 @@ You can download my CV [here](assets/files/Sayantan_Pal_CV.pdf).
 
 # Education
 
-**Indian Institute of Technology Kharagpur**  
+**Indian Institute of Technology Kharagpur, India**  
 Ph.D. in Aerospace Engineering (2021 - Present)
 
-**IIEST Shibpur**  
+**Indian Institute of Engineering Science and Technology Shibpur, India**  
 M.Tech. in Mechatronics (2018 - 2020)
 
-**MAKAUT, Kolkata**  
+**Maulana Abul Kalam Azad University of Technology, Kolkata, India**  
 B.Tech. in Mechanical Engineering (2012 - 2016)
 
 ---
