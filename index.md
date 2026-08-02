@@ -50,7 +50,7 @@ You can download my CV [here](assets/files/Sayantan_Pal_CV.pdf).
 
 # Research Interests
 
-- Guidance and Control of Autonomous Vehicles- 
+- Guidance and Control of Autonomous Vehicles 
 - Path Planning 
 - Missile Guidance
 - Obstacle Avoidance
