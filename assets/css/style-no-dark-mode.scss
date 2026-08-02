@@ -2,21 +2,3 @@
 ---
 
 @import "minimal-light-no-dark-mode";
-/* Research Interests - Two Columns */
-.research-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 30px;
-  margin-top: 10px;
-}
-
-.research-grid ul {
-  margin: 0;
-  padding-left: 20px;
-}
-
-@media (max-width: 768px) {
-  .research-grid {
-    grid-template-columns: 1fr;
-  }
-}
