@@ -50,24 +50,15 @@ You can download my CV [here](assets/files/Sayantan_Pal_CV.pdf).
 
 # Research Interests
 
-<div class="research-grid">
-
-<ul>
-  <li>Guidance and Control of Autonomous Vehicles</li>
-  <li>Path Planning</li>
-  <li>Missile Guidance</li>
-  <li>Obstacle Avoidance</li>
-  <li>Nonlinear Control</li>
-</ul>
-
-<ul>
-  <li>Machine Learning</li>
-  <li>Soft Computing</li>
-  <li>Robotics</li>
-  <li>Wearable Sensors</li>
-</ul>
-
-</div>
+- Guidance and Control of Autonomous Vehicles- 
+- Path Planning 
+- Missile Guidance
+- Obstacle Avoidance
+- Nonlinear Control
+- Machine Learning
+- Soft Computing
+- Robotics
+- Wearable Sensors
 
 ---
 <div id="education"></div>
