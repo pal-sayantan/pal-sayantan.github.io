@@ -43,8 +43,6 @@ My research focuses on the **guidance, and control of autonomous unmanned aerial
 
 Prior to joining IIT Kharagpur, I worked at **CSIR–Central Mechanical Engineering Research Institute (CSIR-CMERI)**, where I contributed to research on tendon-driven hand exoskeletons, flexible strain sensors, and wearable robotic systems. 
 
-You can download my CV [here](assets/files/Sayantan_Pal_CV.pdf).
-
 ---
 <div id="research"></div>
 
